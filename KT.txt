@@ -1,1 +1,2 @@
-Hello Git!
+Hello Jit 2.0!
+Hello Git New Line.
